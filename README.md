@@ -1,4 +1,4 @@
-# 📝 Sign-Up Page
+# 📝 Sign-Up-Page
 
 [![Stars](https://img.shields.io/github/stars/subhajit-maji/Sign-Up-Page?style=flat-square)](https://github.com/subhajit-maji/Sign-Up-Page/stargazers)
 [![Forks](https://img.shields.io/github/forks/subhajit-maji/Sign-Up-Page?style=flat-square)](https://github.com/subhajit-maji/Sign-Up-Page/network/members)
